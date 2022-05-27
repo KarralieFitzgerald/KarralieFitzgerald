@@ -1,4 +1,4 @@
-👋 Hi, I’m Karralie and i'm learning GitHub.
+### 👋 Hi, I’m Karralie and i'm learning GitHub.
 
 This is my favorite quote:
 
